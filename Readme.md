@@ -1,4 +1,4 @@
-You have finish this following task
+You have to finish this following task
 
 1 [Github Installation in windows ](https://youtu.be/nNSpALo1APg?si=65h51Uaf2niJVT6l)
 
